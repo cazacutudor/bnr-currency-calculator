@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f85f96df-c8f7-4711-b8cb-075cb0454a56" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/CurrencyConverterApi/models/ConvertResponse.cs" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CurrencyConverterApi/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.CurrencyConverterApi/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CurrencyConverterApi/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.CurrencyConverterApi/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs" afterPath="$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/bin/Debug/netcoreapp2.0/CurrencyConverterApi.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/CurrencyConverterApi/bin/Debug/netcoreapp2.0/CurrencyConverterApi.runtimeconfig.dev.json" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs" afterPath="$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/obj/CurrencyConverterApi.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/CurrencyConverterApi/obj/CurrencyConverterApi.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/obj/CurrencyConverterApi.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/CurrencyConverterApi/obj/CurrencyConverterApi.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/obj/Debug/netcoreapp2.0/CurrencyConverterApi.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/CurrencyConverterApi/obj/Debug/netcoreapp2.0/CurrencyConverterApi.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/obj/Debug/netcoreapp2.0/CurrencyConverterApi.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/CurrencyConverterApi/obj/Debug/netcoreapp2.0/CurrencyConverterApi.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/obj/project.assets.json" afterPath="$PROJECT_DIR$/CurrencyConverterApi/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverterApi/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/CurrencyConverterApi/obj/project.packagespec.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrencyController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+              <folding>
+                <marker date="1517406803525" expanded="false" signature="6:318" ph="..." />
+                <marker date="1517406803525" expanded="true" signature="450:2917" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="533:2915" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="679:743" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="858:1532" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="1131:1381" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="1398:1486" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="1582:2556" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="2158:2512" ph="{...}" />
+                <marker date="1517406803525" expanded="true" signature="2614:2909" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enumerable.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/c0/6fc688fe/Enumerable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15876">
+              <caret line="882" column="24" lean-forward="false" selection-start-line="882" selection-start-column="24" selection-end-line="882" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Error.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/96/78a31598/Error.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertResponse.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding>
+                <marker date="1517405480687" expanded="true" signature="72:238" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertRequest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertRequest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+              <folding>
+                <marker date="1517404124425" expanded="true" signature="86:184" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Currency.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <marker date="1517405637660" expanded="true" signature="119:306" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CurrencyConverterApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/96/78a31598/Error.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyConverterApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8BCFD18-E7FF-4EBE-AE59-6EB2C23B4A8E/ea/1b158f29/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/c0/6fc688fe/Enumerable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurencyController.cs" />
+        <option value="$PROJECT_DIR$/CurrencyConverterApi/models/CurrencyRequest.cs" />
+        <option value="$PROJECT_DIR$/CurrencyConverterApi/models/ConvertRequest.cs" />
+        <option value="$PROJECT_DIR$/CurrencyConverterApi/models/ConvertResponse.cs" />
+        <option value="$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs" />
+        <option value="$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="226" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CurrencyConverterApi (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.CurrencyConverterApi">
+    <configuration name="CurrencyConverterApi" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CurrencyConverterApi/bin/Debug/netcoreapp2.0/CurrencyConverterApi.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CurrencyConverterApi" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CurrencyConverterApi/CurrencyConverterApi.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.CurrencyConverterApi" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.CurrencyConverterApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85f96df-c8f7-4711-b8cb-075cb0454a56" name="Default" comment="" />
+      <created>1517344616641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517344616641</updated>
+      <workItem from="1517344617738" duration="11084000" />
+      <workItem from="1517403371485" duration="1094000" />
+      <workItem from="1517405126231" duration="1754000" />
+      <workItem from="1517406915184" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14118000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="37" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/c0/6fc688fe/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15876">
+          <caret line="882" column="24" lean-forward="false" selection-start-line="882" selection-start-column="24" selection-end-line="882" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/96/78a31598/Error.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <marker date="1517405480687" expanded="true" signature="72:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <marker date="1517404124425" expanded="true" signature="86:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <marker date="1517405637660" expanded="true" signature="119:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <marker date="1517406803525" expanded="false" signature="6:318" ph="..." />
+            <marker date="1517406803525" expanded="true" signature="450:2917" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="533:2915" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="679:743" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="858:1532" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1131:1381" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1398:1486" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1582:2556" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2158:2512" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2614:2909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <marker date="1517405480687" expanded="true" signature="72:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <marker date="1517404124425" expanded="true" signature="86:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1517405637660" expanded="true" signature="119:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <marker date="1517406803525" expanded="false" signature="6:318" ph="..." />
+            <marker date="1517406803525" expanded="true" signature="450:2917" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="533:2915" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="679:743" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="858:1532" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1131:1381" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1398:1486" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1582:2556" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2158:2512" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2614:2909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <marker date="1517404124425" expanded="true" signature="86:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1517405637660" expanded="true" signature="119:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="86" lean-forward="false" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
+          <folding>
+            <marker date="1517406803525" expanded="false" signature="6:318" ph="..." />
+            <marker date="1517406803525" expanded="true" signature="450:2917" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="533:2915" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="679:743" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="858:1532" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1131:1381" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1398:1486" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1582:2556" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2158:2512" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2614:2909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurencyController.cs" />
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33039C07-CF3F-42A0-A8FD-D2321ECAE649/a5/a1c20031/HttpClient.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90AED729-B7B4-4A6F-81B8-912C01D4FBDE/d0/2842cd2d/XDocument.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90AED729-B7B4-4A6F-81B8-912C01D4FBDE/0a/7d8715ce/XName.cs" />
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6597069D-C130-4A93-A3AA-6CEECFB8E990/0c/453b33a2/Controller.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4FD8A25-AF9B-4CF8-8B66-E22D7378CDA8/e4/be0cfb52/ControllerActionInvoker.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/16D3E528-B073-4D89-B8FD-A31A7EB84EDB/e3/d3a2c816/AsyncTaskMethodBuilder.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/16D3E528-B073-4D89-B8FD-A31A7EB84EDB/53/9c011ac7/ExecutionContextSwitcher.cs" />
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/CurrencyRequest.cs" />
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <marker date="1517404124425" expanded="true" signature="86:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/ConvertResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <marker date="1517405480687" expanded="true" signature="72:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/models/Currency.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <marker date="1517405637660" expanded="true" signature="119:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8BCFD18-E7FF-4EBE-AE59-6EB2C23B4A8E/ea/1b158f29/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="359" column="23" lean-forward="false" selection-start-line="359" selection-start-column="23" selection-end-line="359" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/96/78a31598/Error.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4778670B-4E7F-48F3-85AB-1E9559344DCF/c0/6fc688fe/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15876">
+          <caret line="882" column="24" lean-forward="false" selection-start-line="882" selection-start-column="24" selection-end-line="882" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrencyConverterApi/Controllers/CurrencyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding>
+            <marker date="1517406803525" expanded="false" signature="6:318" ph="..." />
+            <marker date="1517406803525" expanded="true" signature="450:2917" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="533:2915" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="679:743" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="858:1532" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1131:1381" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1398:1486" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="1582:2556" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2158:2512" ph="{...}" />
+            <marker date="1517406803525" expanded="true" signature="2614:2909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

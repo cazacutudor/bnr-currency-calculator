@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_CurrencyConverterApi.-110666686.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="CurrencyConverterApi" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="CurrencyController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="CurrencyConverterApi.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="models" t="Include">
+          <e p="ConvertRequest.cs" t="Include" />
+          <e p="ConvertResponse.cs" t="Include" />
+          <e p="Currency.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="CurrencyConverterApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="CurrencyConverterApi.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
